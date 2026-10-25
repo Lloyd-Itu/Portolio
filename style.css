@@ -589,7 +589,7 @@ section{
 }
 
 .skill-bar .bar .powerbi{
-    width: 60%;
+    width: 100%;
     animation: powerbi 5s;
 }
 
